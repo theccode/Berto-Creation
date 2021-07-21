@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:action="@color/lightWhite"/>
+    <item android:id="@+id/account"
+        android:title="account"
+        android:icon="@drawable/ic_account"
+        android:iconTint="@color/lightWhite"/>
+    <item android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"
+        android:iconTint="@color/lightWhite"/>
+</menu>
